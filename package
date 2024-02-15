@@ -1,0 +1,3 @@
+create or replace package pkg
+is procedure (id number,name varchar2(20));
+end pkg;

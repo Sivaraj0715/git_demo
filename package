@@ -1,3 +1,3 @@
 create or replace package pkg
 is procedure (id number,name varchar2(20));
-end pkg;
+/usr/bin/bash: line 1: q: command not found
